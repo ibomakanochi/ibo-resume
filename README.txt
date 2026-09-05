@@ -4,6 +4,7 @@ Files:
 - index.html: main website
 - style.css: responsive design
 - script.js: mobile menu and project modal
+- images
 
 HOW TO USE:
 1. Open index.html in a browser to preview.
